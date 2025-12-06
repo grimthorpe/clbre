@@ -1,3 +1,11 @@
+# clbre
+
+clbre is a fork of calibre with the aim of stripping out the AI integration.
+
+I hope to keep it up to date, but for now this is for my own purposes.
+
+All copyrights, trademarks, etc. belong to their owners, and I do not make any claim to them.
+
 # calibre
 
 <img align="left" src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png" height="200" width="200"/>

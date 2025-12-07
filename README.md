@@ -6,6 +6,8 @@ I hope to keep it up to date, but for now this is for my own purposes.
 
 All copyrights, trademarks, etc. belong to their owners, and I do not make any claim to them.
 
+- grimthorpe (code@grimthorpe.org)
+
 # calibre
 
 <img align="left" src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png" height="200" width="200"/>
@@ -18,39 +20,32 @@ reading. It is cross platform, running on Linux, Windows and macOS.
 
 For more information, see the [calibre About page](https://calibre-ebook.com/about).
 
-[![Build Status](https://github.com/kovidgoyal/calibre/workflows/CI/badge.svg)](https://github.com/kovidgoyal/calibre/actions?query=workflow%3ACI)
-
-## Screenshots  
-
-[Screenshots page](https://calibre-ebook.com/demo)
-
 ## Usage
 
 See the [User Manual](https://manual.calibre-ebook.com).
 
+Remember that the AI sections should not apply to clbre. If you find anything that relates to AI then please let me know.
+
 ## Development
 
-[Setting up a development environment for calibre](https://manual.calibre-ebook.com/develop.html).
+I'm working on it!
 
-A [tarball of the source code](https://calibre-ebook.com/dist/src) for the 
-current calibre release.
+Unless your change is AI related, you really should be working on calibre directly.
 
 ## Bugs
 
-Bug reports and feature requests should be made in the calibre bug tracker at [Launchpad](https://bugs.launchpad.net/calibre).
-GitHub is only used for code hosting and pull requests.
+Please report bugs in clbre to [clbre issue tracker](https://github.com/grimthorpe/clbre/issues).
+
+I do not want additional work to be placed on the upstream project due to my changes.
+If it turns out to be a bug in the upstream project then it will be escalated.
 
 ## Support calibre
+
+Please do support calibre. I am stripping out the AI components because I have a personal dislike of using AI in a tool like this, but I am well aware that it takes a lot of time and effort to develop software like this.
+
+I (grimthorpe) am not taking donations at this time.
 
 calibre is a result of the efforts of many volunteers from all over the world.
 If you find it useful, please consider contributing to support its development.
 [Donate to support calibre development](https://calibre-ebook.com/donate).
 
-## Building calibre binaries
-
-See [Build instructions](bypy/README.rst) for instructions on how to build the
-calibre binaries and installers for all the platforms calibre supports.
-
-## calibre package versions in various repositories
-
-[![Packaging Status](https://repology.org/badge/vertical-allrepos/calibre.svg?columns=3&header=calibre)](https://repology.org/project/calibre/versions)

@@ -601,3 +601,11 @@ calendar_start_day_of_week = 'Default'
 # with a base language of Chinese.
 # Example: east_asian_base_language = 'ja'
 east_asian_base_language = ''
+
+
+#: Hide AI features
+# Hide AI features throughout the calibre user interface. Note that AI is
+# already opt-in and no AI related code is even loaded until the user configures some
+# AI backend. This tweak exists simply to hide a few menu entries and the like
+# that mention AI.
+hide_ai_features = False

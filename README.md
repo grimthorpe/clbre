@@ -6,6 +6,10 @@ I hope to keep it up to date, but for now this is for my own purposes.
 
 All copyrights, trademarks, etc. belong to their owners, and I do not make any claim to them.
 
+If you are interested in helping with maintaining a version of Calibre without AI I strongly suggest that
+you look at the arcalibre project at https://codeberg.org/rereading/arcalibre where the focus is not only
+to strip the AI but also make the build system simpler.
+
 - grimthorpe (code@grimthorpe.org)
 
 # calibre
